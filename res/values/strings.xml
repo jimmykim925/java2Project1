@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">java2Project1</string>
+    <string name="action_settings">Settings</string>
+    <string name="first">Pick a company</string>
+    <string name="second">Company details</string>
+    <string name="apple">Apple</string>
+    <string name="google">Google</string>
+    <string name="back">Go Back</string>
+    <string name="company">Name: Apple Inc.</string>
+    <string name="stockprice">Price: $426</string>
+    <string name="pe">Price to Earnings: 9.66</string>
+    <string name="marketcap">Market Cap: $400B</string>
+    <string name="companytwo">Name: Google Inc.</string>
+    <string name="stockpricetwo">Price: $774.85</string>
+    <string name="petwo">Price to Earnings: 24.05</string>
+    <string name="marketcaptwo">Market Cap: $255B</string>
+    <string name="yahoo">Yahoo Finance</string>
+
+</resources>
